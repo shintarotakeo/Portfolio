@@ -1,0 +1,21 @@
+body{
+  background-color:#FF530D ;
+  color:#E80C7A;
+  text-align: center;
+  font-family: fantasy;
+
+}
+
+h1{
+  font-family: serif;
+}
+#textdiv{
+    background-color: blue;
+    color: black;
+}
+
+/*class*/
+.mydivs{
+  background-color: red;
+  color:black;
+}

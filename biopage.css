@@ -1,0 +1,25 @@
+ .row{
+  width: 100%;
+  height: 350px;
+}
+
+  .col{
+    height:100%;
+    width:49%;
+    border: 1px solid black;
+    float: left;
+    display: inline-block;
+    }
+
+  #appdiv{
+    background-image: url(appinventor.png);
+    background-repeat: no-repeat;
+
+  }
+
+  #pythondiv{
+    background-image: url(python image1.png);
+    background-repeat: no-repeat;
+
+
+  }
